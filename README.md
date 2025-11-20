@@ -1,6 +1,9 @@
 Benelove
+
 Auteur : Franck Canonne
+
 E-mail : franck.canonne@gmail.com
+
 Site web :  https://le7.net
 
 Logiciel de gestion des bénévoles lors d'évènements. Ce logiciel est destiné aux associations et est conçu pour gérer les bénévoles et leurs plannings sur des festivals sur un ou plusieurs jours. Il est parfaitement adaptable à beaucoup de situations.
